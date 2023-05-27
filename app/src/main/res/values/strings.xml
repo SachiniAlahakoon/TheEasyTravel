@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EasyTravelMainApp</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="password" />
+    <string name="Password" />
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="foget_password">foget password</string>
+    <string name="or_sign_in_with">Or Sign in with</string>
+    <string name="todo">TODO</string>
+    <string name="Forget_Password">Forget Password</string>
+    <string name="Todo">TODO</string>
+    <string name="TODO">TODO</string>
+</resources>
